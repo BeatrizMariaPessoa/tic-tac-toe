@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-
+    
 function Titulo({cor}) {
     const [texto, setTexto] = useState("Um titulo qualquer... :(")
     return <div>
